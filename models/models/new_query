@@ -1,1 +1,0 @@
-SELECT first_name, count(id) FROM `teak-frame-431008-q1.dbt_newtpractics.test_avro` group by 1
